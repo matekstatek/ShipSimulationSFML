@@ -1,2 +1,2 @@
 # ShipSimulationSFML
-Ship simulation in C++ using SFML library.
+Ship simulation in C++/XCode using SFML library.
